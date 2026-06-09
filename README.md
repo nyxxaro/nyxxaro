@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://nyxaro.ru" target="_blank">Dima</a> 
+<h1 align="center">Hi there, I'm <a href="https://nyxaro.ru" target="_blank">Dmitry</a> 
 <h3 align="center">I am a beginner programmer from Russia</h3>
 
 
