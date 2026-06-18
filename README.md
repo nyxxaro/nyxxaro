@@ -15,14 +15,14 @@
 </div>
 
 ```text
-nyxaro@nyxa.ro:~$ fastfetch
+dmitry@nyxa.ro:~$ fastfetch
 
-   ███╗   ██╗      nyxaro@nyxa.ro
+   ███╗   ██╗      dmitry@nyxa.ro
    ████╗  ██║      ──────────────────────────────────────
    ██╔██╗ ██║      user    ~ Dmitry  <nyxaro>
    ██║╚██╗██║      role    ~ self-taught dev · backend dev
    ██║ ╚████║      editor  ~ VSCodium 
-   ╚═╝  ╚═══╝      langs   ~ C · C++ · Python · Java · Kotlin · PHP
+   ╚═╝  ╚═══╝      langs   ~ C++ · Python · Java · Kotlin · PHP
                    distro  ~ Gentoo  (i use gentoo btw)
                    locale  ~ ru_RU · speaks Russian
 
