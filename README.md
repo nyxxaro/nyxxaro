@@ -40,7 +40,7 @@ dmitry@nyxa.ro:~$ fastfetch
 ![Kotlin](https://img.shields.io/badge/Kotlin-1E1B2E?style=for-the-badge&logo=kotlin&logoColor=C792EA)
 ![PHP](https://img.shields.io/badge/PHP-1E1B2E?style=for-the-badge&logo=php&logoColor=C792EA)
 ![HTML5](https://img.shields.io/badge/HTML5-1E1B2E?style=for-the-badge&logo=html5&logoColor=C792EA)
-![CSS3](https://img.shields.io/badge/CSS3-1E1B2E?style=for-the-badge&logo=css3&logoColor=C792EA)
+![CSS3](https://img.shields.io/badge/CSS-1E1B2E?style=for-the-badge&logo=css&logoColor=C792EA)
 ![MySQL](https://img.shields.io/badge/MySQL-1E1B2E?style=for-the-badge&logo=mysql&logoColor=C792EA)
 
 ### 🛠️ tools
